@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '42186'
     url: http://www.gutenberg.org/2009/agents/42186
     wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+covers:
+- cover_type: archival
+  image_path: 67455-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, Betsy
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '36000'
     url: http://www.gutenberg.org/2009/agents/36000
 description: Response to "The Star" by Arthur C. Clarke.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67455#Rebuttal
 gutenberg_issued: '2022-02-21'
 identifiers:
   gutenberg: '67455'
